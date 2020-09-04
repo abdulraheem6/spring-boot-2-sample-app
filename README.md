@@ -1,4 +1,4 @@
-# Dockerized Spring boot 2 application
+# Dockerized Spring boot 2 applications
 
 ![Docker plus Spring Boot plus Codefresh](docker-spring-boot-codefresh.jpg)
 
